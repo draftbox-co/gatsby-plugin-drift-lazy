@@ -1,6 +1,6 @@
 {
   "name": "@draftbox-co/gatsby-plugin-drift-lazy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -12,7 +12,7 @@
     "@babel/runtime": "^7.10.5"
   },
   "peerDependencies": {
-    "gatsby": "2.21.20",
+    "gatsby": "2.24.80",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   },
